@@ -20,7 +20,7 @@ After the initial data preprocessing or data cleaning, I moved into the analysis
 
 Lastly, was to carryout a Multivariate Analysis still using the correlation matrix, but combining two and more columns together to furtehr investigate my data.
 
-Conclusion and Recommendations
+### Conclusion and Recommendations
 
 #### Our Average Customer Profile
 Is a Master's degree holder, Married, in their 40s-70s, earns 35-68k per year and has 0 -1 child
