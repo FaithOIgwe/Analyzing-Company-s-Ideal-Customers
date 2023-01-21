@@ -16,7 +16,8 @@ I have been provided with historical data of their past campaign, to analyze and
 
 ### Project Walkthrough
 I first loaded the data and imported the needed libraries for this project, Carried out basic data cleaning tasks which involved replacing empty values with 0 and categorizing categorical data accordingly to aid and ease analysis.
-After the initial data preprocessing or data cleaning, I moved into the analysis proper, whcich involved carrying out univariate analysis to first and better understand my data, next was to carry out a Bivariate Analysis, which involved combining two columns together to carryout my analysis, this was done using the correlation matrix to determine data that was correlated and then use the data to carryout this bivariate analysis.
+
+After the initial data preprocessing or data cleaning, I moved into the analysis proper, which involved carrying out univariate analysis to first and better understand my data, next was to carry out a Bivariate Analysis, which involved combining two columns together to carryout my analysis, this was done using the correlation matrix to determine data that was correlated and then use the data to carryout this bivariate analysis.
 
 Lastly, was to carryout a Multivariate Analysis still using the correlation matrix, but combining two and more columns together to furtehr investigate my data.
 
