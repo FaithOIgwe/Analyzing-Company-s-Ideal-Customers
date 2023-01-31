@@ -10,7 +10,7 @@ In this Project,I am a Data Analyst Consulting for a small business company to h
 
 ### Problem Statement
 
-In this project I take the position of a Marketign Data Analyst Consulting for a small business who sells retail products such as wines,Fruits, Fish products, sweet products, and Gold products. 
+In this project I take the position of a Marketing Data Analyst Consulting for a small business who sells retail products such as wines,Fruits, Fish products, sweet products, and Gold products. 
 
 I have been provided with historical data of their past campaign, to analyze and help them better understand who their ideal customers are.
 
